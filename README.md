@@ -51,12 +51,6 @@ cd weather-app</code></pre>
   </div>
 
   <div class="section">
-    <h2>📸 Screenshots</h2>
-    <p>Add screenshots of your app here to showcase UI and features.</p>
-  </div>
-
- 
-  <div class="section">
     <h2>💡 Author</h2>
     <p>Developed by <strong>Nadia Kamel</strong><br>
     Feel free to connect or contribute!</p>
